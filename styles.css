@@ -113,7 +113,7 @@ html, body {
 .mdl-demo section.section--center {
   max-width: 860px;
 }
-.mdl-demo #features section.section--center {
+.mdl-demo #education #global-coop #health #thanks #interaction #features section.section--center {
   max-width: 620px;
 }
 .mdl-demo section > header{
@@ -204,10 +204,10 @@ html, body {
 .mdl-demo .mdl-layout__tab-panel:not(#overview) {
   background-color: white;
 }
-.mdl-demo #features section {
+.mdl-demo #education #global-coop #health #thanks #interaction #features section {
   margin-bottom: 72px;
 }
-.mdl-demo #features h4, #features h5 {
+.mdl-demo #education #global-coop #health #thanks #interaction #features h4, #education #global-coop #health #thanks #interaction #features h5 {
   margin-bottom: 16px;
 }
 .mdl-demo .toc {
