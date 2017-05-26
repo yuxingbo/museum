@@ -1,5 +1,9 @@
-# 黑龙江中医药大学中药博物馆
+# 黑龙江中医药大学中药博物馆网站
 
-## Preview
+## 编辑文件
 
-Preview the site at http://boxin.name/museum
+## 预览效果
+
+最新版本可以在这里预览： http://boxin.name/museum
+
+## 回退编辑
